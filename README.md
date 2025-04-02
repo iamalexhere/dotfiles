@@ -3,4 +3,4 @@ backup of my arch dotfiles:
 - neofetch
 - another hyprland and kde config (soon)
 
-![screenshot](Screenshot_20250402_223959)
+![screenshot](Screenshot_20250402_223959.png)
